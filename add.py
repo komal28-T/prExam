@@ -1,1 +1,3 @@
-print("Addition=" 2+3)
+a=4
+b=3
+print("Addition="a+b)
